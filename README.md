@@ -1,5 +1,5 @@
 ## Henlo :3
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4200&pause=2400&color=86F4F5&center=true&vCenter=true&width=420&height=69&lines=Hey+there!+I'm+0xTARC%2C+a+'web3'+dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4200&pause=2400&color=86F4F5&center=true&vCenter=true&width=420&height=69&lines=Hey+there!+I'm+0xTARC%2C+a+'web3'+dev)]
 
 ## Work
 * Led a team of 3 to build a frontend for the FIAT Protocol. [Link](https://github.com/fiatdao/fiat-ui-i)
