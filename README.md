@@ -7,7 +7,6 @@
 
 ## Projects
 * I author a newsletter called [Web3 Frontend Weekly](https://web3frontendweekly.substack.com/). I share high quality Typescript & React snippets, design advice, in-depth technical comparisons, and more to help you build a dApp better & faster than you thought possible.
-* Other random things. DM me on [Twitter](https://twitter.com/0xTARC) or Discord ([TARC#8659](969663184317345813)) and ask about them!
 
 ## Why am I Here?
 1. Crypto is the future of finance. That makes it motivating to build in this space.
