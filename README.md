@@ -5,19 +5,19 @@
 > I hope you don't mind me redacting some information for privacy reasons. If you have questions, please reach out so we can chat in a safer environment!
 
 #### Core Front-end Developer @ FIAT DAO
-* Led a team of 3 to build a frontend for the FIAT Protocol using *React*, *Typescript*, and *Ethers*. [Link](https://github.com/fiatdao/fiat-ui-i)
+* Led a team of 3 to build a frontend for the FIAT Protocol using **React**, **Typescript**, and **Ethers**. [Link](https://github.com/fiatdao/fiat-ui-i)
 * Fork & customize Element's Governance Council frontend to enable users govern the FIAT protocol, including adding ve-token locking mechanics. [Private link](https://github.com/fiatdao/gov-ui-ii)
 
 #### Full-stack Engineer @ "Enterprise FinTech"
-* Worked in a team of 8 to release a unit tested, full-stack microservice to production using Java, Dart, React, and MySQL.
+* Worked in a team of 8 to release a unit tested, full-stack microservice to production using **Java**, **React**, and **MySQL**.
 * Increase type safety for 1000s of engineers by extending linting functionality for [redacted].
-* Maintained, refactored, and added new features to existing microservices in Go, Java & React.
+* Maintained, refactored, and added new features to existing microservices in **Go**, **Java** & **React**.
 * Triaged critical issues with APM tools (e.g. Splunk) to decrease MTTR.
 
 #### Tech Lead @ "FinTech Startup"
-* Led a team of 4 to build a React Native app, transitioning 10,000+ users from web.
-* Architected a pub/sub pipeline with AWS SNS & SQS to process [redacted] in real time.
-* Use Figma to design & prototype mobile UI mockups from scratch.
+* Led a team of 4 to build a **React Native** app, transitioning 10,000+ users from web.
+* Architected a pub/sub pipeline with **AWS SNS** & **SQS** to process [redacted] in real time.
+* Use **Figma** to design & prototype mobile UI mockups from scratch.
 
 ## Projects
 * I author a newsletter called [Web3 Frontend Weekly](https://web3frontendweekly.substack.com/). I share high quality Typescript & React snippets, design advice, in-depth technical comparisons, and more to help you build a dApp better & faster than you thought possible.
