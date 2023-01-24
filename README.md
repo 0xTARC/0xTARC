@@ -15,4 +15,4 @@
 3. There's a lot of smart & cool people in crypto and I like meeting y'all.
 
 ## Get in Touch
-Message me on Discord ([TARC#8659](969663184317345813)), (email)[mailto:0xtarc@protonmail.com], or [Twitter](https://twitter.com/0xTARC) if you're interested in working together.
+Message me on Discord ([TARC#8659](969663184317345813)), [email](mailto:0xtarc@protonmail.com), or [Twitter](https://twitter.com/0xTARC) if you're interested in working together.
