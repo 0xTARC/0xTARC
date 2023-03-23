@@ -19,12 +19,12 @@
 * Architected a pub/sub pipeline with **AWS SNS** & **SQS** to process [redacted] in real time.
 * Use **Figma** to design & prototype mobile UI mockups from scratch.
 
-## Projects
-* I author a newsletter called [Web3 Frontend Weekly](https://web3frontendweekly.substack.com/). I share high quality Typescript & React snippets, design advice, in-depth technical comparisons, and more to help you build a dApp better & faster than you thought possible.
+## Devblog
+If you like dank dev memes and actionable advice for dApp developers, I think you'll like my [blog](https://0xtarc.substack.com/).
 
 ## Why am I Here?
-1. Crypto is the future of finance. That makes it motivating to build in this space.
-2. I believe in cryptography's power to decrease returns to violence, protecting us from negative-sum actors. I want to learn how to harness that defensive power, and make it easy to use for myself and others.
+1. High quality financial services for all is a motivating future to build towards.
+2. Cryptocurrencies have the potential to greatly reduce the incentive to violence. This is because by default, no one knows how much crypto you own or how to access it. I want to live in a world with less violence.
 3. There's a lot of smart & cool people in crypto and I like meeting y'all.
 
 ## Get in Touch
