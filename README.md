@@ -24,7 +24,7 @@ If you like dank dev memes and actionable advice for dApp developers, I think yo
 
 ## Why am I Here?
 1. High quality financial services for all is a motivating future to build towards.
-2. Cryptocurrencies have the potential to greatly reduce the incentive to violence. This is because by default, no one knows how much crypto you own or how to access it. I want to live in a world with less violence.
+2. Crypto has the potential to greatly reduce the incentive to violence. This is because by default, no one knows how much crypto you own or how to access it. I want to live in a world with less violence, don't you?
 3. There's a lot of smart & cool people in crypto and I like meeting y'all.
 
 ## Get in Touch
