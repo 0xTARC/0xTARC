@@ -4,6 +4,10 @@
 ## Work
 > I hope you don't mind me redacting some information for privacy reasons. If you have questions, please reach out so we can chat in a safer environment!
 
+#### Full-Stack Development @ Panoptic Labs
+* Aggregate Uniswap V3 & Panoptic events in a subgraph to provide data for user interface & liquidation bot consumers.
+* Building user interface to Panoptic decentralized option exchange to trade, model position payoffs, and analyze account performance.
+
 #### Core Front-end Developer @ FIAT DAO
 * Led a team of 3 to build a frontend for the FIAT Protocol using **React**, **Typescript**, **Ethers**, and **The Graph**. [Link](https://github.com/fiatdao/fiat-ui-i)
 * Fork & customize Element's Governance Council frontend to enable users to govern the FIAT protocol, including an interface for ve-token locking. [Link](https://github.com/fiatdao/gov-ui-ii)
