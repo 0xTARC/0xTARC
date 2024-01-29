@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4200&pause=2400&color=86F4F5&center=true&vCenter=true&width=420&height=69&lines=Hey+there!+I'm+0xTARC%2C+a+'web3'+dev)
 
 ## Work
-> I hope you don't mind me redacting some information for privacy reasons. If you have questions, please reach out so we can chat in a safer environment!
+> I hope you don't mind me redacting some information for privacy reasons. If you have questions, please reach out so we can chat in a more private environment!
 
 #### Full-Stack Development @ Panoptic Labs
 * Aggregate Uniswap V3 & Panoptic events in a subgraph to provide data for user interface & liquidation bot consumers.
@@ -10,7 +10,7 @@
 
 #### Core Front-end Developer @ FIAT DAO
 * Led a team of 3 to build a frontend for the FIAT Protocol using **React**, **Typescript**, **Ethers**, and **The Graph**. [Link](https://github.com/fiatdao/fiat-ui-i)
-* Fork & customize Element's Governance Council frontend to enable users to govern the FIAT protocol, including an interface for ve-token locking. [Link](https://github.com/fiatdao/gov-ui-ii)
+* Build a dapp frontend from scratch to enable users to govern the FIAT protocol, including an interface for ve-token locking. [Link](https://github.com/fiatdao/gov-ui-ii)
 
 #### Full-stack Engineer @ "Enterprise FinTech"
 * Worked in a team of 8 to release a unit tested, full-stack microservice to production using **Java**, **React**, and **MySQL**.
@@ -24,7 +24,7 @@
 * Use **Figma** to design & prototype mobile UI mockups from scratch.
 
 ## Devblog
-If you like dank dev memes and actionable advice for dApp developers, I think you'll like my [blog](https://0xtarc.substack.com/).
+If you like dank dev memes and actionable advice for dApp developers, I think you'll like my [blog](https://0xtarc.eth.limo/).
 
 ## Why am I Here?
 1. High quality financial services for all is a motivating future to build towards.
