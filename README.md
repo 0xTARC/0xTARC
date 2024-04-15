@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4200&pause=2400&color=86F4F5&center=true&vCenter=true&width=420&height=69&lines=Hey+there!+I'm+0xTARC%2C+a+'web3'+dev)
 
 ## Work
-> I hope you don't mind me redacting some information for privacy reasons. If you have questions, please reach out so we can chat in a more private environment!
+> Some inforamation redacted for privacy. If you'd like to chat more, please reach out on email or Twitter!
 
 #### Full-Stack Development @ Panoptic Labs
 * Aggregate Uniswap V3 & Panoptic events in a subgraph to provide data for user interface & liquidation bot consumers.
