@@ -4,8 +4,8 @@
 > Some inforamation redacted for privacy. If you'd like to chat more, please reach out on email or Twitter!
 
 #### Full-Stack Development @ Panoptic Labs
-* Build an easy-to-consume API using The Graph around a custom data model that aggregates Uniswap V3 & Panoptic events.
-* Build a user interface for the Panoptic decentralized options protocol to trade, model position payoffs, and analyze account performance over time using React, TypeScript, and Wagmi.
+* Built an easy-to-consume API using The Graph around a custom data model that aggregates Uniswap V3 & Panoptic events. [Link](https://panoptic.xyz/docs/subgraph/schema)
+* Built a user interface for the Panoptic decentralized options protocol to trade, model position payoffs, and analyze account performance over time using React, TypeScript, and Wagmi. [Link](https://beta.panoptic.xyz/)
 * Co-creating an open-source liquidation bot to close unhealthy positions, which can be run locally or in the cloud.
 
 #### Core Front-end Developer @ FIAT DAO
