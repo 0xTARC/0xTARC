@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4200&pause=2400&color=86F4F5&center=true&vCenter=true&width=420&height=69&lines=Hey+there!+I'm+0xTARC%2C+a+'web3'+dev)
 
 ## Work
-> Some inforamation redacted for privacy. If you'd like to chat more, please reach out on email or Twitter!
+> Some information redacted for privacy. If you'd like to chat more, please reach out on email or Twitter!
 
 #### Full-Stack Development @ Panoptic Labs
 * Built an easy-to-consume API using The Graph around a custom data model that aggregates Uniswap V3 & Panoptic events. [Link](https://panoptic.xyz/docs/subgraph/schema)
