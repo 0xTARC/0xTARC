@@ -10,7 +10,7 @@
 
 #### Core Front-end Developer @ FIAT DAO
 * Led a team of 3 to build a frontend for the FIAT Protocol using React, Typescript, Ethers, and The Graph. [Link](https://github.com/fiatdao/fiat-ui-i)
-* Build a dapp frontend from scratch to enable users to govern the FIAT protocol, including an interface for ve-token locking. [Link](https://github.com/fiatdao/gov-ui-ii)
+* Build a dapp frontend from scratch to enable users to govern the FIAT protocol, including an interface for ve-token locking. [Link](https://github.com/fiatdao/gov-ui-i)
 
 #### Full-stack Engineer @ Enterprise FinTech
 * Worked in a team of 8 to release a new unit tested, full-stack microservice to production using Java, React, and MySQL.
