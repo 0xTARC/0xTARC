@@ -12,13 +12,13 @@
 * Led a team of 3 to build a frontend for the FIAT Protocol using React, Typescript, Ethers, and The Graph. [Link](https://github.com/fiatdao/fiat-ui-i)
 * Build a dapp frontend from scratch to enable users to govern the FIAT protocol, including an interface for ve-token locking. [Link](https://github.com/fiatdao/gov-ui-ii)
 
-#### Full-stack Engineer @ "Enterprise FinTech"
+#### Full-stack Engineer @ Enterprise FinTech
 * Worked in a team of 8 to release a new unit tested, full-stack microservice to production using Java, React, and MySQL.
 * Increase type safety for 1000s of engineers by extending linting functionality for internal UI library.
 * Maintained, refactored, and added new features to existing Go and Java microservices.
 * Triaged critical issues with APM tools (e.g. Splunk) to increase recoverability.
 
-#### Tech Lead @ "FinTech Startup"
+#### Tech Lead @ FinTech Startup
 * Led a team of 4 to build and release a highly rated React Native app, transitioning 10,000+ users from web.
 * Architected a pub/sub pipeline with AWS SNS & SQS to process credit reports in real time.
 * Build general payments backend to integrate 3 different payment providers.
